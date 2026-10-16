@@ -74,13 +74,7 @@ Quick-commerce platforms depend on pricing, discounting, and stock availability.
 
 
 
-## Repository Structure
 
-```
-zepto-inventory-sql-analysis/
-├── Zepto_inventory_analysis.sql
-└── README.md
-```
 
 
 
