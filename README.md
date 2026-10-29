@@ -64,12 +64,16 @@ Quick-commerce platforms depend on pricing, discounting, and stock availability.
 
 ## Key Findings
 
+## What This Analysis Answers
 
-- **Discounts:** The categories with the highest average discount are ______ and ______ (Q5).
-- **Stock-outs:** ___ high-MRP products (above ₹300) are out of stock, mostly in ______ (Q2).
-- **Inventory value:** ______ holds the highest estimated inventory value at ₹______ (Q3).
-- **Value for money:** ______ gives the lowest price per gram (Q6).
-- **Data quality:** ___ rows had a price of 0 and were removed during cleaning.
+- **Discounts:** Identifies the products and categories offering the highest discounts (Q1, Q5).
+- **Stock-outs:** Flags high-MRP products (above ₹300) that are out of stock, showing where availability gaps hurt most (Q2).
+- **Inventory value:** Estimates the value of stock held in each category (price × available quantity) to show where most capital is tied up (Q3, Q8).
+- **Value for money:** Compares price per gram to find the best-value products (Q6).
+- **Data quality:** Removed rows with an MRP of 0 and converted prices from paise to rupees so the analysis is reliable.
+
+
+
 
 
 
