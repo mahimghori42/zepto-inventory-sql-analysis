@@ -64,7 +64,6 @@ Quick-commerce platforms depend on pricing, discounting, and stock availability.
 
 ## Key Findings
 
-> Replace these with real results from your queries.
 
 - **Discounts:** The categories with the highest average discount are ______ and ______ (Q5).
 - **Stock-outs:** ___ high-MRP products (above ₹300) are out of stock, mostly in ______ (Q2).
